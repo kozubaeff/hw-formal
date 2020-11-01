@@ -1,0 +1,1 @@
+Plus (Ident "a") (Mult (Pow (Num 2) (Num 3)) (Num 4))
